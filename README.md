@@ -1,6 +1,6 @@
 # lazzypay
 
-A new Flutter project.
+A new Flutter project.UI design still a work in progress
 
 ## Getting Started
 
